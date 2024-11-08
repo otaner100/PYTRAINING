@@ -1,0 +1,2 @@
+show int ip bri
+show ip version
